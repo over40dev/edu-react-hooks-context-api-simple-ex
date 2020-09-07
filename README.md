@@ -1,8 +1,10 @@
-# React Hooks and Context API
+# Fullstack MERN App
 
-## Simple Example using React Functional Components
+MongoDB | Express | React | Node
 
-### Expense Tracker
+## Frontend - Simple Expense Tracker using React Hooks and Context API
+
+### React Client
 
 Starter code based on a React version of Brad Traversy's [Vanilla JS Expense Tracker](https://github.com/bradtraversy/vanillawebprojects/tree/master/expense-tracker). It uses functional components with hooks and the context API.
 
